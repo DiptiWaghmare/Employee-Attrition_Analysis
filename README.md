@@ -1,8 +1,10 @@
 # Employee Attrition Analysis Dashboard 💼📊
- **Overview 🚀**
+**Overview 🚀**
+
 Welcome to the Employee Attrition Analysis Dashboard project! This dashboard is designed to help organizations analyze employee attrition patterns and make data-driven decisions to improve employee retention. By leveraging advanced data visualization techniques, this tool provides insights into the factors contributing to employee turnover, allowing HR teams and management to take proactive measures to enhance employee satisfaction and reduce attrition rates.
 
 **Tableau Project 📊**
+
 You can explore the Tableau dashboard by following this link.
 
 **Table of Contents 📑**
