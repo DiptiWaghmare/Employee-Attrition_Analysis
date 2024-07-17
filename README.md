@@ -71,11 +71,11 @@ Dashboard Screenshot
 * Scikit-learn: Machine learning library, used for predictive analysis and model building.
 * Dash/Plotly: Web-based dashboard framework for interactive visualizations.
 
-### Tableau: 
+## Tableau: 
 
 Data visualization tool, used for creating interactive and dynamic visualizations for deeper analysis.
 
-### Contact 📧
+## Contact 📧
 
 If you have any questions or feedback, feel free to reach out:
 
