@@ -5,11 +5,11 @@ Welcome to the Employee Attrition Analysis Dashboard project! This dashboard is 
 
 **Tableau Project 📊**
 
-You can explore the Tableau dashboard by following this link.
+You can explore the Tableau dashboard by following this [link](https://public.tableau.com/app/profile/dipti.waghmare/viz/EmployeeAttritionAnalysisDashboard_17165451785010/EAAD).
 
 **Table of Contents 📑**
 
-Introduction
+* Introduction
 Data
 Main KPIs
 Screenshot of Dashboard
