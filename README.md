@@ -50,6 +50,8 @@ Business Travel wise Attrition
 **Screenshot of Dashboard 🖼️**
 
 Dashboard Screenshot
+![image](https://github.com/user-attachments/assets/92d1a139-4bde-43ec-93c2-2aae6b62b0d2)
+
 
 **Usage 🛠️**
 
