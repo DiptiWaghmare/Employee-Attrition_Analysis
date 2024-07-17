@@ -63,7 +63,7 @@ To run this project locally, follow these steps:
 
 **Clone the repository:**
 
-git clone https://github.com/asmaIGithub/Employee-Attrition-Analysis.git
+git clone https://github.com/DiptiWaghmare/Employee-Attrition_Analysis
 
 **Technologies Used 🛠️**
 
